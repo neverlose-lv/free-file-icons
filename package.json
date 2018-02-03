@@ -1,0 +1,15 @@
+{
+  "name": "free-file-icons",
+  "version": "1.0.0",
+  "description": "Free File Icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverlose-lv/free-file-icons.git"
+  },
+  "author": "Sergejs Volkovs <volkk@inbox.lv>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neverlose-lv/free-file-icons/issues"
+  },
+  "homepage": "https://github.com/neverlose-lv/free-file-icons#readme"
+}
